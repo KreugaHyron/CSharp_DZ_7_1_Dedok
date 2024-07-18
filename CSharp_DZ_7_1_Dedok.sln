@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_DZ_7_1_Dedok", "CSharp_DZ_7_1_Dedok.csproj", "{D16B813B-1A6D-424B-B792-876F80205B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16B813B-1A6D-424B-B792-876F80205B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16B813B-1A6D-424B-B792-876F80205B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16B813B-1A6D-424B-B792-876F80205B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16B813B-1A6D-424B-B792-876F80205B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63A8B8F-6445-49CC-9FCE-3B396E347077}
+	EndGlobalSection
+EndGlobal
